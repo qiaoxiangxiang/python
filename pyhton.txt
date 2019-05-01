@@ -1,3 +1,6 @@
 type  查看数据类型  方法是 type();
 print(); 是输出 拼接 通过 ”,“ 拼接；
 强行转化数据类型： 整数  int()   浮点型 float()   字符串 str()；
+
+
+画图   在 安装setop.py  文件下，通过 cmd 打开黑框，在黑框中输入  python setpy.py install ;下载文件，下载完毕后 输入python 查看版本，然后通过  easygui.msgbox("holle world") 测试，是个弹框；
